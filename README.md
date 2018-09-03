@@ -19,4 +19,5 @@ Sample output:
 Color template:
 
 ![screenshot](colors.png)
+
 Bigger numbered go routines will repeat the colors. 
